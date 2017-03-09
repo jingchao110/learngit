@@ -1,5 +1,5 @@
-将git仓库建在d盘的方法：
+1、将git仓库建在d盘的方法：
 我们假设将git仓库目录放在D盘的OPENSource目录下，可以通过在git bash中执行以下命令完成：
       cd /d
       mkdir OPENSource(wenjanming)
-
+2、注意命令窗口输入时的空格，不然各种报错。
